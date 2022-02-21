@@ -15,18 +15,7 @@
   </a>
 </div><br>
 
-<div style="display: flex">
-  <div width="33%" align="center">
-    <span style="color: black;">HTML5</span><br><br>
-    <img height="70px" src="https://cdn.svgporn.com/logos/html-5.svg">
-  </div>
-  <div width="33%" align="center">
-    <span>CSS3</span><br><br>
-    <img height="70px" src="https://cdn.svgporn.com/logos/css-3.svg">
-  </div>
-</div>
-
-<table>
+<table align="center">
   <tbody>
     <tr valign="top">
       <td width="33%" align="center">
