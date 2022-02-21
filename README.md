@@ -15,7 +15,7 @@
   </a>
 </div><br>
 
-<div style="display: inline">
+<div style="display: flex">
   <div width="33%" align="center">
     <span style="color: black;">HTML5</span><br><br>
     <img height="70px" src="https://cdn.svgporn.com/logos/html-5.svg">
