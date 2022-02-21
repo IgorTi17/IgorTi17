@@ -3,7 +3,6 @@
   <h3 align="center">Olá! Me chamo Igor Moura!</h3>
   <p align="center">:computer: Técnico em informática.</p>
   <p align="center">:computer: Graduado em Sistemas De Informação.</p>
-
   <p align="center">:writing_hand: Diversos cursos na área de desenvolvimento web.</p>
   <p align="center">:writing_hand: Cursando inglês.</p><hr>
 </p>
