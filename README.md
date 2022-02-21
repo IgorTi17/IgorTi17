@@ -8,16 +8,12 @@
   <p align="center">:writing_hand: Cursando inglês.</p><br><hr>
 </p>
 
-<table>
-    <tr>
-      <td width="50%" align="center">
-        <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api?username=IgorTi17&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-      </td>
-      <td width="50%" align="center">
-        <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorTi17&layout=compact&langs_count=7&theme=great-gatsby"/>
-      </td>
-    </tr>
-</table>
+<div>
+  <a href="https://github.com/IgorTi17">
+    <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api?username=IgorTi17&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+    <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorTi17&layout=compact&langs_count=7&theme=great-gatsby"/>
+  </a>
+</div>
 
 
 <table>
