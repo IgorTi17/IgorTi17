@@ -1,12 +1,4 @@
-<p align="center">
-  <h2 align="center">Seja Bem vindo(a)</h2> 
-  <h3 align="center">Olá! Me chamo Igor Moura! 👨💻</h3>
-  <p align="center">:computer: Técnico em informática.</p>
-  <p align="center">:computer: Graduado em Sistemas De Informação.</p>
 
-  <p align="center">:writing_hand: Diversos cursos na área de desenvolvimento web.</p>
-  <p align="center">:writing_hand: Cursando inglês.</p><hr>
-</p>
 
 <div style="display: inline_block">
     <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api?username=IgorTi17&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
