@@ -13,11 +13,7 @@
     <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorTi17&layout=compact&langs_count=7&theme=great-gatsby"/>
 </div>
 
-<div>
-  <a href="https://github.com/GabrielSMSantos">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielSMSantos&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielSMSantos&layout=compact&langs_count=7&theme=radical"/>
-</div>
+
 
 <table>
   <tbody>
