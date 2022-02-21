@@ -1,6 +1,6 @@
 <p align="center">
   <h2 align="center">Seja Bem vindo(a)</h2> 
-  <h3 align="center">Olá! Me chamo Igor Moura! 👨‍💻</h3>
+  <h3 align="center">Olá! Me chamo Igor Moura! 👨💻</h3>
   <p align="center">:computer: Técnico em informática.</p>
   <p align="center">:computer: Graduado em Sistemas De Informação.</p>
 
