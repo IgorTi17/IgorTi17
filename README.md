@@ -5,7 +5,7 @@
   <p align="center">:computer: Graduado em Sistemas De Informação.</p>
 
   <p align="center">:writing_hand: Diversos cursos na área de desenvolvimento web.</p>
-  <p align="center">:writing_hand: Cursando inglês.</p><br><hr>
+  <p align="center">:writing_hand: Cursando inglês.</p><hr>
 </p>
 
 <div>
