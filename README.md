@@ -1,13 +1,12 @@
 <p align="center">
   <h2 align="center">Seja Bem vindo(a)</h2> 
   <h3 align="center">Olá! Me chamo Igor Moura! 👨‍💻</h3>
+  <p>:computer: Técnico em informática.</p>
+  <p>:computer: Graduado em Sistemas De Informação.</p><br>
+
+  <p>:writing_hand: Diversos cursos na área de desenvolvimento web.</p>
+  <p>:writing_hand: Cursando inglês.</p>
 </p>
-
-:computer: Técnico em informática.
-:computer: Graduado em Sistemas De Informação.
-
-:writing_hand: Diversos cursos na área de desenvolvimento web.
-:writing_hand: Cursando inglês.
 
 <div>
   <a href="https://github.com/IgorTi17">
