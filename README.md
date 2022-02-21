@@ -9,18 +9,18 @@
 </p>
 
 <div align="center">
-  <a href="https://github.com/IgorTi17">
+  <a href="https://github.com/IgorTi17" style="text-decoration: none;">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IgorTi17&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorTi17&layout=compact&langs_count=7&theme=great-gatsby"/>
-</div>
-  
+</div><br>
+
 <div style="display: inline_block">
   <div width="33%" align="center">
     <span style="color: black;">HTML5</span><br><br>
     <img height="70px" src="https://cdn.svgporn.com/logos/html-5.svg">
   </div>
   <div width="33%" align="center">
-    <span style="color: black;">CSS3</span><br><br>
+    <span>CSS3</span><br><br>
     <img height="70px" src="https://cdn.svgporn.com/logos/css-3.svg">
   </div>
 </div>
