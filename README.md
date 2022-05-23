@@ -41,7 +41,7 @@
       </td>
       <td width="33%" align="center">
         <span>MySql</span><br><br>
-        <img height="70px" src="http://idcodex.id3design.com.br/wp-content/uploads/2014/03/mysql.png">
+        <img height="70px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
       </td>
     </tr><br>
     <tr valign="top">
