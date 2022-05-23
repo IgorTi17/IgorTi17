@@ -47,7 +47,7 @@
     <tr valign="top">
       <td width="33%" align="center">
         <span>PHP</span><br><br>
-        <img height="70px" src="https://terminalroot.com.br/assets/img/php/php.jpg">
+        <img height="70px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
       </td>
       <td width="33%" align="center">
         <span>Laravel</span><br><br>
